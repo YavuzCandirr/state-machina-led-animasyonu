@@ -24,8 +24,12 @@ Sistemin "kalp atışını" TIM2 zamanlayıcısı belirler. Süre her dolduğund
 * **Zamanlayıcı:** `TIM2` (Kalp atışı periyodu için Prescaler ve Period ayarları yapılmıştır).
 * *Not: `push_button_Pin` giriş olarak yapılandırılmış olsa da bu temel animasyonda pasif durumdadır.*
 
-## 🚀 Kurulum ve Kullanım
 
-1. Bu projeyi bilgisayarınıza klonlayın:
-   ```bash
-   git clone [https://github.com/KULLANICI_ADINIZ/STM32-Chaser-LED-Animation.git](https://github.com/KULLANICI_ADINIZ/STM32-Chaser-LED-Animation.git)
+### 👨‍💻 Geliştirici / Developer
+<p align="center">
+  <b>Yavuz ÇANDIR</b>
+  <br>
+  <a href="https://github.com/YavuzCandirr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-YavuzCandirr-black?logo=github" alt="GitHub">
+  </a>
+</p>
